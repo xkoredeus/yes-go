@@ -731,7 +731,7 @@ button:active{
     width: 433.19px;
     height: 315.17px;
     left: -120px;
-    top: 80px;
+    top: 0px;
     background: url(../img/rev__decor_1.svg) no-repeat 50% 50% / contain;
   }
   .rev__container::after {
@@ -740,7 +740,7 @@ button:active{
     width: 523.27px;
     height: 341.86px;
     right: -150px;
-    top: 70px;
+    top: -10px;
     background: url(../img/rev__decor_2.svg) no-repeat 50% 50% / contain;
   }
   .rev__item {
