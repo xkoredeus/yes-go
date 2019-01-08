@@ -529,6 +529,7 @@ button:active{
     .banner__ttl {
       font-family: 'Lemon';
       font-size: 50px;
+      text-align: center;
     }
     .banner__subttl {
       text-align: center;
@@ -549,7 +550,7 @@ button:active{
     .banner__mouse {
       position: absolute;
       left: 50%;
-      margin-left: -17.5px;
+      margin-left: -12.5px;
       animation: mouse 2s linear 0s infinite;
     }
 .advantages {
@@ -599,6 +600,7 @@ button:active{
         padding-left: 30px;
         padding-right: 30px;
         text-align: center;
+        max-width: 320px;
       }
         .adv__item-img {
           width: 120px;
@@ -636,6 +638,7 @@ button:active{
     justify-content: center;
     -ms-align-items: center;
     align-items: center;
+    max-width: 320px;
   }
     .how__item::before {
       content: '';
